@@ -12,3 +12,5 @@ https://kunkelkevin.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Kevin Kunkel
+
+### ©️2019 Run Buddy, Inc
