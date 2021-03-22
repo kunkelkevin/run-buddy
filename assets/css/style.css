@@ -187,6 +187,9 @@ section {
   margin-right: 20px;
 }
 
+.step-img img {
+  max-width: 100%;
+}
 .trainer {
   width: 900px;
   margin: 0 auto 30px;
